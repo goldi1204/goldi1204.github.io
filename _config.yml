@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: en-US
+lang: ko-KR
 
 # Site title
-title: "my blog"
+title: "개발 블로그"
 
 # A description of your site for meta tag, search engine results.
-description: "developer"
+description: "개발자가 되기 위한 여정"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -36,8 +36,6 @@ navigation:
     url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
@@ -47,7 +45,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; 2025 Goldi. All rights reserved."
   has_social: true
 
 # Plugins
