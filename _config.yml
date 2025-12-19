@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jiwoo Kum"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Aspiring AI Engineer | NLP & LLM Research"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rmawldn@gmail.com"
