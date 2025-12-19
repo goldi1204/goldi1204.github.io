@@ -2,7 +2,7 @@
 - degree: "B.S. in Software"
   uni: "Soongsil University"
   year: "2021 &mdash; 2026 (Expected)"
-  award: "Member of <a href='https://sites.google.com/view/ssu-nlp/home'>NLP Lab</a> (Advisor: <a href='https://parkchanjun.github.io/'>Prof. Chanjun Park</a>)"
+  # award: "Member of <a href='https://sites.google.com/view/ssu-nlp/home'>NLP Lab</a> (Advisor: <a href='https://parkchanjun.github.io/'>Prof. Chanjun Park</a>)"
   # summary: "Focusing on Natural Language Processing and Large Language Models."
 
 - degree: High School Diploma
