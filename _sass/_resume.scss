@@ -93,43 +93,22 @@
   .icon-link-item {
     display: inline-block;
     margin-left: 5px;
-    vertical-align: middle;
   }
 
-  .icon-link {
-    display: inline-flex;
-    align-items: center;
-    height: 28px;
-    vertical-align: middle;
+  .icon-link { display: inline-block;
 
     &:hover .icon path {
       fill: #333;
       @include transition(all .2s ease);
     }
+
+    &:hover .cv-icon-background {
+      fill: #333;
+      @include transition(all .2s ease);
+    }
   }
 
-  .icon {
-    height: 28px;
-  }
-
-  .cv-icon {
-    @include sans_bold;
-    align-items: center;
-    background-color: #d1cecc;
-    border-radius: 50%;
-    color: #fff;
-    display: inline-flex;
-    font-size: 10px;
-    justify-content: center;
-    line-height: 1;
-    vertical-align: middle;
-    width: 28px;
-  }
-
-  .icon-link:hover .cv-icon {
-    background-color: #333;
-    @include transition(all .2s ease);
-  }
+  .icon { height: 28px; }
 }
 
 .contact-button {
