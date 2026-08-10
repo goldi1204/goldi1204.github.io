@@ -42,8 +42,9 @@
         margin: -10px 0 0 15px;
         float: right;
         border-radius: 50%;
-        object-fit: cover;
-        object-fit: cover;
+        box-sizing: border-box;
+        object-fit: contain;
+        padding: 10px;
         p & {
             padding: 0;
             margin: 0;
