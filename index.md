@@ -13,7 +13,7 @@ layout: default
 * Large Language Models (LLMs)
 * LLM Interpretability
 * Small Language Models (SLMs)
-* Knowledge Distillation
+* Multi Agent System (MAS)
 
 ## Education
 
