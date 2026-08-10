@@ -27,3 +27,4 @@ layout: default
 ## Additional Links
 
 * <a href="https://creator40937.tistory.com/">Blog Link</a>.
+* <a href="https://scholar.google.com/citations?user=ywx-3wgAAAAJ&hl=ko">Google Scholar</a>.
