@@ -5,7 +5,8 @@ layout: default
 ## Biography
 
 <img class="profile-picture" src="images/face.png" alt="Jiwoo Kum">
-<a href="https://www.linkedin.com/in/jiwookum">Jiwoo Kum</a> is an NLP and LLM researcher at the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>, <a href="https://ssu.ac.kr/">Soongsil University</a>. His research focuses on LLM interpretability and small language models. He studies how knowledge and reasoning are represented within large language models and how these capabilities can be transferred effectively to smaller models through knowledge distillation. His goal is to develop more capable and efficient small language models by connecting model understanding with practical optimization methods. For more details, please see his <a href="./Jiwoo_Kum_CV.pdf">CV</a>.
+<a href="https://www.linkedin.com/in/jiwookum">Jiwoo Kum</a> is a master's student in the School of <a href="https://sw.ssu.ac.kr/">Software</a> at Soongsil University. He is currently conducting research at the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. His research interests include natural language processing (NLP) and large language models (LLMs), with a particular focus on understanding and analyzing the internal mechanisms and behaviors of LLMs. His current research explores the interpretability and analysis of large language models. For more details, please see his <a href="./Jiwoo_Kum_CV.pdf">CV</a>.
+
 
 ## Research Interests
 
@@ -23,6 +24,6 @@ layout: default
 
 * **2025.11 - Now**: <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>, Soongsil University, Research Assistant (Advisor: <a href="https://parkchanjun.github.io/">Prof. Chanjun Park</a>) <br>
 
-## Links
+## Additional Links
 
-Please see my <a href="./Jiwoo_Kum_CV.pdf">CV</a>, <a href="https://github.com/goldi1204">GitHub</a>, <a href="https://www.linkedin.com/in/jiwookum">LinkedIn</a>, or <a href="https://creator40937.tistory.com/">Blog</a>.
+* <a href="https://creator40937.tistory.com/">Blog Link</a>.
