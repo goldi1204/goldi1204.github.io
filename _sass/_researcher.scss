@@ -1,0 +1,194 @@
+// Adapted from the Researcher Jekyll theme by Ankit Sultana (GPL-3.0).
+// https://github.com/ankitsultana/researcher
+
+$accent: #0077cc;
+$image-size: 150px;
+$max-width: 700px;
+$medium-width: 600px;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  color: #272727;
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a {
+  color: $accent;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+hr {
+  height: 0;
+  margin: 0;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.wrapper {
+  min-height: 100%;
+}
+
+.container {
+  max-width: $max-width;
+  margin: auto;
+}
+
+.navbar {
+  padding: 50px 0;
+}
+
+#author-name {
+  display: inline-block;
+  color: #272727;
+  font-size: 30px;
+}
+
+.navbar-ul {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 0 20px;
+  padding: 5px 0;
+  list-style: none;
+}
+
+.nav-list,
+.nav-separator {
+  margin: 0;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.content {
+  padding: 0 0 50px;
+}
+
+.content section {
+  clear: both;
+}
+
+.content h2 {
+  margin: 0.83em 0;
+  font-size: 1.5em;
+  line-height: 1.25;
+}
+
+.content p {
+  margin: 1em 0;
+}
+
+.content ul {
+  padding: 0 20px;
+}
+
+.content li {
+  margin: 5px 0;
+}
+
+.profile-picture {
+  position: relative;
+  float: right;
+  width: $image-size;
+  height: $image-size;
+  margin: -10px 0 15px 15px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.item-summary {
+  margin: 5px 0 10px 20px;
+}
+
+.item-summary ul {
+  margin: 5px 0;
+}
+
+@media (max-width: 800px) {
+  .container {
+    max-width: $medium-width;
+    transition: 0.3s ease all;
+  }
+}
+
+@media (max-width: 650px) {
+  .container {
+    max-width: 83%;
+  }
+
+  .navbar-ul {
+    margin-top: 5px;
+  }
+}
+
+@media (max-width: 500px) {
+  .navbar {
+    padding: 50px 0 0;
+    text-align: center;
+  }
+
+  #author-name,
+  .pull-left,
+  .pull-right {
+    float: none;
+  }
+
+  #author-name {
+    width: 100%;
+  }
+
+  .navbar-ul {
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+  }
+
+  .profile-picture {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+  }
+}
+
+@media print {
+  .navbar {
+    padding: 20px 0;
+  }
+
+  .navbar nav {
+    display: none;
+  }
+
+  a {
+    color: inherit;
+  }
+}

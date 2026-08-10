@@ -13,6 +13,21 @@ resume_avatar:                  "true"
 resume_name:                    "Jiwoo Kum"
 resume_title:                   "NLP & LLM Researcher"
 
+# Navigation for the Researcher-style header
+researcher_nav:
+  - name: "CV"
+    link: "/Jiwoo_Kum_CV.pdf"
+    external: true
+  - name: "GitHub"
+    link: "https://github.com/goldi1204"
+    external: true
+  - name: "LinkedIn"
+    link: "https://www.linkedin.com/in/jiwookum"
+    external: true
+  - name: "Blog"
+    link: "https://creator40937.tistory.com/"
+    external: true
+
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rmawldn@gmail.com"
 
