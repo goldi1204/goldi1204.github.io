@@ -5,7 +5,7 @@ layout: default
 ## Biography
 
 <img class="profile-picture" src="images/face.png" alt="Jiwoo Kum">
-<a href="https://www.linkedin.com/in/jiwookum">Jiwoo Kum</a> is a master's student in the School of <a href="https://sw.ssu.ac.kr/">Software</a> at Soongsil University. He is currently conducting research at the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. His research interests include natural language processing (NLP) and large language models (LLMs), with a particular focus on understanding and analyzing the internal mechanisms and behaviors of LLMs. His current research explores the interpretability and analysis of large language models. For more details, please see his <a href="./Jiwoo_Kum_CV.pdf">CV</a>.
+<a href="https://www.linkedin.com/in/jiwookum">Jiwoo Kum</a> is a master's student in the School of <a href="https://sw.ssu.ac.kr/">Software</a> at Soongsil University. He is currently conducting research at the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. His research interests include natural language processing (NLP) and large language models (LLMs), with a particular focus on understanding and analyzing the internal mechanisms and behaviors of LLMs. His current research explores the interpretability and analysis of large language models. For more details, please see his <a href="./Jiwoo_Kum_CV.pdf?v=9683815">CV</a>.
 
 
 ## Research Interests
