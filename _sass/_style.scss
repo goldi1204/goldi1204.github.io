@@ -26,13 +26,6 @@ a:hover {
 .affiliation-logo-link:hover {
     text-decoration: none;
 }
-.affiliation-logo {
-    display: inline-block;
-    width: auto;
-    height: 16px;
-    margin-left: 4px;
-    vertical-align: -3px;
-}
 hr {
     border: 0;
     height: 0;
@@ -127,3 +120,12 @@ hr {
 
 @import "typography";
 @import "tables";
+
+// Keep affiliation marks inline and compact, overriding `.content img`.
+img.affiliation-logo {
+    display: inline-block;
+    width: auto;
+    height: 16px;
+    margin: 0 0 0 4px;
+    vertical-align: -3px;
+}
