@@ -17,6 +17,22 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.affiliation-logo-link {
+    display: inline-block;
+    line-height: 1;
+    text-decoration: none;
+}
+.affiliation-logo-link:hover {
+    text-decoration: none;
+}
+.affiliation-logo {
+    display: inline-block;
+    width: auto;
+    height: 16px;
+    margin-left: 4px;
+    vertical-align: -3px;
+}
 hr {
     border: 0;
     height: 0;

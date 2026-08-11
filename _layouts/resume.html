@@ -45,6 +45,11 @@
                   <strong>{{ job.duration }}</strong>:
                   <span itemprop="name">{{ job.company }}</span>,
                   <span itemprop="description">{{ job.position }}</span>
+                  {% if job.logo %}
+                    {% if job.logo_url %}<a class="affiliation-logo-link" href="{{ job.logo_url }}" aria-label="{{ job.logo_link_label }}">{% endif %}
+                      <img class="affiliation-logo" src="{{ job.logo | relative_url }}" alt="{{ job.logo_alt }}">
+                    {% if job.logo_url %}</a>{% endif %}
+                  {% endif %}
                   {% if job.summary %}<div class="item-summary">{{ job.summary }}</div>{% endif %}
                 </li>
               {% endfor %}
@@ -60,6 +65,11 @@
                 <li itemprop="alumniOf" itemscope itemtype="https://schema.org/CollegeOrUniversity">
                   <strong>{{ education.year }}</strong>:
                   {{ education.degree }}, <span itemprop="name">{{ education.uni }}</span>
+                  {% if education.logo %}
+                    {% if education.logo_url %}<a class="affiliation-logo-link" href="{{ education.logo_url }}" aria-label="{{ education.logo_link_label }}">{% endif %}
+                      <img class="affiliation-logo" src="{{ education.logo | relative_url }}" alt="{{ education.logo_alt }}">
+                    {% if education.logo_url %}</a>{% endif %}
+                  {% endif %}
                   {% if education.award %}<div class="item-summary">{{ education.award }}</div>{% endif %}
                   {% if education.summary %}<div class="item-summary">{{ education.summary }}</div>{% endif %}
                 </li>

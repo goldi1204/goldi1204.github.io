@@ -2,6 +2,10 @@
 - company: "The Natural Language Processing (NLP) Lab, Soongsil University"
   position: "Research Assistant"
   duration: "Nov, 2025 &mdash; Present"
+  logo: "/images/soongsil_nlp.png"
+  logo_alt: "Soongsil University NLP Lab logo"
+  logo_url: "https://sites.google.com/view/ssu-nlp/home"
+  logo_link_label: "Visit the Soongsil University NLP Lab website"
   summary: "Conducting research on state-of-the-art NLP and LLM technologies. <ul class='resume-item-list'><li>Advisor: <a href='https://parkchanjun.github.io/'>Prof. Chanjun Park</a></li><li>Lab: <a href='https://sites.google.com/view/ssu-nlp/home'>NLP Lab @ SSU</a></li><li>Focus: Large Language Models, Generative AI, and Machine Translation</li></ul>"
 
 # # Jobs
