@@ -17,12 +17,12 @@ layout: default
 
 ## Education
 
-* **2027.03 - 2028.08 (Expected)**: M.S. in <a href="https://sw.ssu.ac.kr/">Software</a>, Soongsil University (Advisor: <a href="https://parkchanjun.github.io/">Prof. Chanjun Park</a>)<br>
-* **2021.03 - 2027.02 (Expected)**: B.S. in <a href="https://sw.ssu.ac.kr/">Software</a>, Soongsil University (Advisor: <a href="https://parkchanjun.github.io/">Prof. Chanjun Park</a>)<br>
+* **2027.03 - 2028.08 (Expected)**: M.S. in <a href="https://sw.ssu.ac.kr/">Software</a>, Soongsil University (Advisor: <a href="https://parkchanjun.github.io/">Prof. Chanjun Park</a>) <a class="affiliation-logo-link" href="https://ssu.ac.kr/" aria-label="Visit the Soongsil University website"><img class="affiliation-logo" src="images/soongsil.png" alt="Soongsil University logo"></a><br>
+* **2021.03 - 2027.02 (Expected)**: B.S. in <a href="https://sw.ssu.ac.kr/">Software</a>, Soongsil University (Advisor: <a href="https://parkchanjun.github.io/">Prof. Chanjun Park</a>) <a class="affiliation-logo-link" href="https://ssu.ac.kr/" aria-label="Visit the Soongsil University website"><img class="affiliation-logo" src="images/soongsil.png" alt="Soongsil University logo"></a><br>
 
 ## Work Experiences
 
-* **2025.11 - Now**: <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>, Soongsil University, Research Assistant <br>
+* **2025.11 - Now**: <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>, Soongsil University, Research Assistant <a class="affiliation-logo-link" href="https://sites.google.com/view/ssu-nlp/home" aria-label="Visit the Soongsil University NLP Lab website"><img class="affiliation-logo" src="images/soongsil_nlp.png" alt="Soongsil University NLP Lab logo"></a><br>
 
 ## Additional Links
 
